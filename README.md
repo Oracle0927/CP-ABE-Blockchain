@@ -88,6 +88,7 @@ go mod vendor
 2.2 deploy the contract
 
 ```bash
+cd ..
 ./network.sh deployCC -ccn DTModeling -ccp contract -ccl go
 ```
 
