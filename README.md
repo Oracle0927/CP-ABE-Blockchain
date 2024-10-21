@@ -18,7 +18,7 @@
 
 ``` bash
 git clone https://github.com/hyperledger/fabric-samples.git
-cd fabric-sample
+cd fabric-samples
 git checkout v2.4.3
 ```
 
